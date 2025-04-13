@@ -1,4 +1,4 @@
-# Take Home Exam by Richmond Tetteh Djwerter and Kwaku Adou
+# Take Home Exam by Richmond Tetteh Djwerter and Kwaku Adou @apeakoadou
 
 # **ABSTRACT**
 
